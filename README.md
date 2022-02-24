@@ -14,7 +14,6 @@
 
 ## アプリケーションの起動方法(Dockerを使用しない場合)
 
-本プロジェクトは、[create-react-app](https://reactjs.org/docs/create-a-new-react-app.html) により作成したアプリケーションから React の学習に最低限必要な機能のみを厳選し、軽量化したものです。
 以下の手順でアプリケーションを起動できます。
 
     $ wget https://github.com/DiveIntoHacking/react-starter-kit-in-javascript-with-node-v12.18.4/archive/v1.1.tar.gz
